@@ -16,7 +16,7 @@ img{
   float: right
 }
 .design_img{ 
-  width: 50px;
+  max-height: 75%;
   float: left;
   margin-right: 20px;
   border-radius: 20px;
