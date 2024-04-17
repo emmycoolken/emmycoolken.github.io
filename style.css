@@ -1,0 +1,23 @@
+body{background: rgb(255,255,131);
+}
+p{
+  color: black;
+  text-align: center;
+  font-family: Monoscope;
+  
+}
+img{
+  width: 200px;
+  height: 200px;
+  border-color: palevioletred;
+  border-width: 4px;
+  border-style: ridge;
+  border-radius: 100px;
+  float: right
+}
+.design_img{ 
+  width: 50px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 20px;
+}
