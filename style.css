@@ -7,8 +7,8 @@ p{
   
 }
 img{
-  width: 200px;
-  height: 200px;
+  width: 75%;
+  height: auto;
   border-color: palevioletred;
   border-width: 4px;
   border-style: ridge;
