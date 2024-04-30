@@ -32,3 +32,23 @@ img{
 .toCenter{
   text-align: center;
 }
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.hover) {
+  background-color: #111;
+  .hover {
+    background-color: #04AA6D;
+  }
+  .jog{background-color: green;
+  
