@@ -46,7 +46,7 @@ li a {
 }
 
 li a:hover:not(.hover) {
-  background-color: #111;
+  background-color: #8C8C8C;
   .hover {
     background-color: #04AA6D;
   }
