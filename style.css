@@ -38,7 +38,7 @@ img{
   margin: 0px;
   padding: 0px;
 }
-li {
+.nav li {
   list-style: none;
   width: 100%;
   border: 1px solid white;
@@ -56,9 +56,20 @@ li a {
   background-color: #8C8C8C;
   color: black;
 }
-
-.content{
+.flex{
   display: flex;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+.gallery img{
+  width: 30%;
+  margin: 10px 0px;
+}
+.content{
   max-width: 1000px;
   margin: auto;
   line-height: 30px;
