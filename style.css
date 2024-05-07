@@ -33,7 +33,7 @@ img{
   text-align: center;
 }
 
-ul{
+.nav{
   display: flex;
   margin: 0px;
   padding: 0px;
