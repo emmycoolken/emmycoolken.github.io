@@ -90,6 +90,7 @@ li a {
   display: flex;
   margin: 0px;
   padding: 0px;
+  max-width: 90%;
 }
 .nav li {
   list-style: none;
